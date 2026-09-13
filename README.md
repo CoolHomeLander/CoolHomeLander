@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 JavaScript, Python, HTML, CSS, ReactJS, MySQL Developer<br>✏️ Figma, Photoshop, PyQT5 Designer
+💻 JavaScript, Python, HTML, CSS, С++, MySQL Developer<br>✏️ Figma, Photoshop, PyQT5 Designer
 
 
 ## 🌐 Socials:
